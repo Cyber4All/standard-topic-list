@@ -1,0 +1,783 @@
+TOPIC: Risk Management
+
+Fundamentals of Cybersecurity (not here)
+Cyber Risk Management in Internet of Things
+Economics of Cyber Systems Risk Management
+Fundamentals of Cybersecurity Risk Management
+Applied Standards and Cybersecurity Risk Management
+Cyber Risk Management in Cloud Environment
+Cybersecurity Framework and DoD Risk Management Framework
+Risk Management Tools and Techniques
+Government Standards and Regulations
+Field Skills on Cybersecurity Risk Management
+Risk Management Framework and Information Security Management Systems
+Industry Standards and Best Practices
+Multidisciplinary Risk Management in Cybersecurity
+Cybersecurity Risk Governance
+Cyber Resilience and Decision Making
+Fundamentals of Risk Management
+Threat and Risk Analysis
+Risk and Threat Assessment
+Planning, Risk Analysis, and Incident Response
+
+
+TOPIC: Cyber Law
+
+History and Overview of the Fourth Amendment and Key Legal Concepts
+Legal Framework for the Collection of Bulk Metadata
+Justiciability Issues Related to Electronic Surveillance
+Legislative Reforms
+Major Cybersecurity Legislation
+Legal Authorities
+Roles and Responsibilities of Government Agencies in Cybersecurity
+Law and Policy of Cybersecurity
+Types of Cybercrime
+Law and Policy of Cybercrime
+Electronic Surveillance Jurisprudence
+Introduction to Cybercrime
+Introduction to Legal, Regulatory, and Policy Issues in Cybersecurity
+Encryption
+Preparedness and Response to Cybercrime Incidents
+Warrant Requirements in Cyberspace
+Public-Private Sector Cooperation in Fighting Cybercrime
+Major Regulatory Frameworks in Cybersecurity
+National Security, Electronic Surveillance, and the Fourth Amendment
+Jurisdiction in Investigating and Prosecuting Cybercrime
+International Aspects of Cybercrime
+Data Breaches
+Critical Infrastructure Protection and the NIST Cybersecurity Framework
+Federal Privacy Statutes
+International Law and Cybersecurity
+Cybersecurity: Cyber Conflict and the Law
+Cybersecurity: Cyber Crime and the Law
+Legal and Ethical Aspects
+Cellular Technology, Enhanced Visual Surveillance, Biometrics & Cyber Tracking
+The Structure and Role of Federal and State Courts in the U.S.
+Right to Privacy & Fourth Amendment
+The Cyber Threat-Response Framework: An Overview
+An Introduction - Learning How to Learn Law
+The Federal Agencies that Oversee Cyber Operations
+Federal and State Roles in Cyber Crime Investigation and Prosecution
+Torts, Contracts, Evidence, etc
+Overview of Cyberspace
+Cyberspace & Jurisdiction; Foreign Intelligence Surveillance Courts
+The Right to Conduct Cyber Operations Against International Actors (1)
+Principles of Cyber Law and Policy: Course Syllabus
+Unmanned Aerial Systems (Drones)
+First Amendment: Speech Protections, Anonymity & Surveillance
+Understanding Cyber Systems, Operations & Technology Advances
+The Role of International Law in Cyber Operations
+State Data, Surveillance, Computer and Privacy Laws
+Rules for Conducting Cyber Operations Against State Actors (1)
+Cybersecurity Information Sharing
+Shared Responsibility for National Security Governance
+Existing Federal Statutory Scheme Prohibiting Cybercrimes
+Congress and the President
+Advancing Technologies, Data Sharing Across Platforms & Cyber Actors
+The Right to Conduct Cyber Operations Against International Actors (2)
+Rules for Conducting Cyber Operations Against State Actors (2)
+Federal Policy (PPD-41); Cyber Threat Response; Offensive Cyber Operations
+Other Federal Laws Regulating Access To Data; Criminalization of Specific Cyber Activities
+FTC & FCC
+Cyber Operations By and Against Private Actors
+Fifth, Sixth, & Fourteenth Amendments
+Principles of Cyber Law and Policy
+Understanding Cyberspace
+Legal Foundations of Modern Cyber Law and Policy
+Cyber Operations
+Cyber Governance:  Three Branches of Government
+Rules for Conducting Cyber Operations Against Non-State Actors
+Intro to Cyber Law and Ethics
+Cyber Terrorism and Cyber Crime
+Cybersecurity: The Bureaucracy of Cyber Conflict
+Legal and Ethical Aspects of Cybersecurity
+Cyber Crime
+Prudent Engineering Practices
+Privacy, Legal, and Ethics
+
+
+TOPIC: Reverse Engineering
+
+Introduction to Reverse Engineering
+Static Analysis
+Anti-Analysis Techniques
+Emerging Analysis Trends
+Reverse Engineering
+Assembly for Reverse Engineering (RE)
+UG: Reverse Engineering
+GR: Reverse Engineering
+Network Protocols for Reverse Engineers
+Scripting for Reverse Engineers
+
+
+TOPIC: OS Security
+
+OS Kernel Introspection and Exploitation
+Disassembly
+Security Functions in OS
+Secure OS Design Principles
+Intel Assembly
+Classic Unix Kernel Attack
+The Windows API
+Operating System Hardening
+Working with Files
+Unix, Linux, and Kali Introduction
+Introduction to Operating System Security
+Introduction To File System
+Tools For Filesystem Investigation
+Introduction to Secure System Administration
+Objdump and Exploit Generation
+Shell Coding
+
+
+TOPIC: Malware
+
+Intro to Malware Analysis and Software Instrumentation
+Structure of Modern Malware
+Analyzing Intermediate Representation (IR) Malware
+Malware Analysis using Binary Instrumentation
+Malware Analysis Using VM Introspection and Memory Forensics
+Introducing Active Learning to Malware Analysis Curriculum
+Malware
+Malware
+Malware
+Malware Data Compromise Techniques
+Malware Privilege Escalation
+Malware Persistence Techniques
+Malware Delivery Mechanisms
+UG: Malware Analysis
+GR: Malware Analysis
+Malware Identification and Triage
+Industrial Malware and Attack Cases
+NICE Challenge - Malicious Malware!
+NICE Challenge - Malware Aftermath Cleanup (Complexity 1)
+NICE Challenge - Malware Aftermath Cleanup (Complexity 0)
+
+
+TOPIC: Digital Forensics
+
+Introduction to Digital Forensics
+First Response and Investigation
+Digital Forensics Investigation Steps
+Digital Forensics
+Digital Forensics with Kali Course Overview
+Memory Forensic, Network Forensic, and Other Forensic Tools
+Memory/Live Forensics
+Digital Forensics and Incident Response
+
+
+TOPIC: Web Security
+
+NetSiC Labs - Web Security
+Introduction to Web Security
+Web Attacks
+Email Security
+Web Security
+Working with Web
+Working with SQL
+SQL Injection
+OWASP Top Ten Web Application Scanning
+SSL and HTTPS
+Apache Server Intro & Security
+Basics of Encryption
+Public Key Infrastructure
+Browser Extension
+
+
+TOPIC: Cryptography
+
+Cryptography
+Network Security Cryptography Overview
+Cryptography Overview
+Symmetric and Asymmetric Cryptography
+Introduction to Cryptography
+Cryptographic Applications
+Cryptographic Tools
+Cryptography (Doug Reeves)
+Crypto Basics
+Quantum Computing and Cryptography - 05: Complex Vector Spaces: Linear Combination, Independence, Basis and Dimensions
+Quantum Computing and Cryptography - 04: Complex Vector Spaces
+Quantum Computing and Cryptography - 03: Complex Numbers on a Plane
+Quantum Computing and Cryptography - 06: Properties and Operations on Vectors and Matrices in Complex Vector Spaces
+Quantum Computing and Cryptography - 09: Probabilistic to Quantum Systems
+Quantum Computing and Cryptography - 08: Tensor Analysis
+Quantum Computing and Cryptography - 07:  Advanced Concepts in Complex Vector Spaces
+Quantum Computing and Cryptography - 10: The Basics
+Quantum Computing and Cryptography - 02: Properties of Complex Numbers
+Quantum Computing and Cryptography - 15: Multi-qubit Systems
+Quantum Computing and Cryptography - 13: General Single-Qubit Measurement
+Quantum Computing and Cryptography - 01: Basics of Complex Numbers
+Quantum Computing and Cryptography - 11: Basics of Measuring a Qubit
+Quantum Computing and Cryptography - 12: Visualizing a Qubit
+Quantum Computing and Cryptography - 14: Single-Qubit Gates and Operations
+Quantum Computing and Cryptography - 16: Multiple Qubits and Entangled Systems
+Quantum Computing and Cryptography - 17: The EPR Paradox and CHSH Game
+Quantum Computing and Cryptography - 18: Multi-Qubit Gates and Operations
+Quantum Computing and Cryptography - 19: Classical and Quantum Cryptography
+Quantum Computing and Cryptography - 20: The First Quantum Key Distribution Protocol
+Quantum Computing and Cryptography - 21: B92 Quantum Key Distribution Protocol
+Quantum Computing and Cryptography - 22: The Three-Stage Quantum Key Distribution Protocol
+Quantum Computing and Cryptography - 23: Entanglement based QKD
+Quantum Computing and Cryptography - 24: The Goldenberg-Vaidman Protocol
+Quantum Computing and Cryptography - 26: Attacks on QKD Implementations
+Quantum Computing and Cryptography - 27: IBM Quantum Computers & Simulating Quantum Teleportation
+Quantum Computing and Cryptography - 28: Simulating BB84, EPR and Three-Stage QKD Protocols
+Math Basics for Quantum Computing/Cryptography: A review (Unit 1)
+Basic Concepts for Quantum Computing and Cryptography (Unit 2)
+Quantum Cryptography and Advanced Topics (Unit 3)
+Quantum Computing and Cryptography - 25: Quantum Error Correction Codes
+GCHQ Origins of Public Key Cryptography
+Public Key Cryptography
+Basic Cryptography
+RSA SecureID
+RSA Algorithm and Diffie-Hellman Key Exchange
+Lamport's S Key Authentication
+Chaum Blinding Algorithm
+Triple-DES Compatibility with DES
+Symmetric Key Algorithms
+Asymmetric Key Algorithms
+Key Distribution and Certification Authority
+SGX: Side-channel attacks and defense in enclaves
+SGX: Partitioning and Understanding Memory Protection
+SGX: Software attestation
+Smartphone Side-Channel Attacks and Defenses: A Course Project
+
+
+TOPIC: Industrial Control Systems
+
+Six SCADA Modules
+SCADA Control System Networking - 2/6 SCADA Modules
+SCADA Control System Network Enumeration and Denial of Service - 3/6 SCADA Modules
+SCADA Control System Network Packet Alteration and Injection - 4/6 SCADA Modules
+SCADA Control System Network Intrusion Detection - 5/6 SCADA Module
+Adding Confidentiality and Authentication to SCADA Network - 6/6 SCADA Module
+Introduction to SCADA - 1/6 SCADA Modules
+Security in Cyber-Physical Systems
+Secure Management of Control Systems
+Industrial Control Systems Fundamentals and Security
+Industrial Network Protocols
+Cybersecurity of Industrial Control Systems
+Monitoring Industrial Control Networks
+Industrial Network Architectures
+Attacks on Industrial Control Networks
+Securing Industrial Networks
+Introduction to ICS
+Overview of ICS Components and Processes
+
+
+TOPIC: Cloud Security
+
+Introduction to Amazon AWS
+Edge Cloud Threats and Defense
+Cloud Security
+
+
+TOPIC: Network Security
+
+NetSiC Labs - Firewall
+NetSiC Labs - Virtual Private Network
+Firewalls
+Creating a Router- SDN Part 4
+Creating an Ethernet Hub - SDN Part 2
+Creating a Learning Switch - SDN Part 3
+Firewall and IDS
+NetSiC Labs - Linux Bridge
+NetSiC Labs - Open vSwitch
+NetSiC Labs - OpenFlow
+NetSiC Labs - SDN Controller
+NetSiC Labs - Overlay Networking
+NetSiC Labs - Security Group
+NetSiC Labs - Network Intrusion Detection
+NetSiC Labs - Vulnerability Discovery
+NetSiC Labs - TCP/IP Security
+Introduction to Network Security
+Network Security Services, Threats and Attacks
+Networking Overview
+Internetworking
+Network Attacks and Threats
+Internetworking Lesson
+Netfilter (iptables)
+Network Basics and Threats
+NS- Network Security
+Network Security Course Introduction
+Network Defense
+Network Encryption and Protocols
+Network Defense Technologies
+Security in Networking
+Network Security and DDoS Attacks
+Wireless Network Security Labs
+Wireless Network Lab 1 and 2 - Testbed and Kali
+Wireless Network Lab 9 and 10 - IDS and GPS
+Wireless Network Lab 7 and 8 - SDR and WPA
+Wireless Network Lab 5 and 6 - Wifi and Bluetooth
+Wireless Network Lab 3 and 4  - Sniffing and Antenna
+Wireless Security
+Network Penetration Testing
+Denial-of-Service Attacks
+Implementing Network Access Control - SDN Part 10
+Scaling SDN - SDN Part 13
+Introduction to Software Defined Networking - SDN Part 1
+Gathering Statistics - SDN Part 6
+Modifying Network Traffic - SDN Part 8
+Vehicular Data Buses Part 1
+Creating a Firewall - SDN Part 5
+Vehicular Data Buses Part 2
+Vehicular Data Buses Part 3
+Creating a Load Balancer - SDN Part 7
+Introduction to Physical Layer Security and Spectrum Monitoring Part 1
+Introduction to Physical Layer Security and Spectrum Monitoring Part 3
+Implementing Quality-of-Service (QoS)- SDN Part 9
+Introduction to Physical Layer Security and Spectrum Monitoring Part 2
+Internet Infrastructure and Telecom Part 2
+Internet Infrastructure and Telecom Part 3
+Internet Infrastructure and Telecom Part 4
+Creating a Router- SDN Part 4
+Creating an Ethernet Hub - SDN Part 2
+Creating a Learning Switch - SDN Part 3
+Monitoring Network Traffic - SDN Part 11
+Isolating Network Traffic - SDN Part 12
+Security Implications of Software Defined Networking - SDN Part 14
+Internet Infrastructure and Telecom Part 1
+Software Defined Networking
+Network Defense
+Implementing Network Access Control - SDN Part 10
+Scaling SDN - SDN Part 13
+Introduction to Software Defined Networking - SDN Part 1
+Gathering Statistics - SDN Part 6
+Modifying Network Traffic - SDN Part 8
+Vehicular Data Buses Part 1
+Creating a Firewall - SDN Part 5
+Vehicular Data Buses Part 2
+Vehicular Data Buses Part 3
+Creating a Load Balancer - SDN Part 7
+Introduction to Physical Layer Security and Spectrum Monitoring Part 1
+Introduction to Physical Layer Security and Spectrum Monitoring Part 3
+Implementing Quality-of-Service (QoS)- SDN Part 9
+Introduction to Physical Layer Security and Spectrum Monitoring Part 2
+Internet Infrastructure and Telecom Part 2
+Internet Infrastructure and Telecom Part 3
+Internet Infrastructure and Telecom Part 4
+Monitoring Network Traffic - SDN Part 11
+Isolating Network Traffic - SDN Part 12
+Security Implications of Software Defined Networking - SDN Part 14
+Internet Infrastructure and Telecom Part 1
+Software Defined Networking
+Network Security Course Overview
+Wireless Security
+DNS Intro & Security
+Email Network Security
+Email Server Intro & Security
+IP Packet Attacks
+Botnets and DDoS
+Packet Filter and Firewall Configuration
+NICE Challenge - Sniffing Out Suspicious Activity
+NICE Challenge - Networking Anomalies: The Packet Capture Edition
+NICE Challenge - Raising the Stakes: Security by the Book
+NICE Challenge - Incoming Zero Day! Prepare the IDS-IPS!
+NICE Challenge - Foolish Firewall Configurations
+NICE Challenge - Lengthy Logs: Attack Analysis (Complexity 0)
+NICE Challenge - Preventative Protections: Thwarting the Imminent Threat
+NICE Challenge - Attack Incoming, Analysis on the Wire
+NICE Challenge - Lengthy Logs: Attack Analysis (Complexity 1)
+Mirai Botnet
+DNS Pharming
+Host-Based Stepping-Stone Intrusion Detection
+Random Walk Detection
+Introduction to Stepping-stone Intrusion Detection
+Connection Chain Based Detection
+Packet Matching
+Stepping-stone Intrusion and its Detection
+IPSEC and IKE Security
+SMB Intro & Security
+Production Systems
+DHCP Intro & Security
+Infrastructure Services Course Overview
+Case Study: DDoS Attacks
+Case Study: OpenSSL Heartbleed
+Introduction To Penetration Testing
+Intrusion Detection
+Access Control
+Access Control
+Identification, Authentication, and Access Control
+PCAP File Format
+Slammer Decoded
+Reconnaissance
+Scanning
+Exploitation
+Varying the costs of attack and defense on a network
+General Authentication Schema
+Orange Book and Security Criteria
+Classic Soda Machine Attack
+Enterprise Perimeter Weaknesses
+Kerberos
+Bell-LaPadula Model
+Intrusion Detection Basics
+Trojan Horse Code Insertion
+Biba Model and Integrity
+Basic Scanning
+Cyber Offensive and Defensive Schema
+NIST Cyber Security Framework
+CASB Design
+Reinventing Security Awareness
+
+
+TOPIC: Adversarial Thinking
+
+Adversarial Thinking
+Introduction to Strategic Cybersecurity
+Global Cyber Threat Environment
+Cybersecurity: Strategic Cybersecurity
+Cybersecurity: Understanding Binary and the DNS
+Cybersecurity: Historical Foundations of the Internet
+Cybersecurity: Vulnerabilities and Vectors
+Cybersecurity: Adversaries and APTs
+Cybersecurity: Cyber Conflict and the Westphalian System
+Cybersecurity: Problems of Identity and Attribution
+Cybersecurity: Dataveillance
+Cybersecurity: Economics, Government Regulation, and Cybersecurity
+Cybersecurity: Critical Infrastructure
+Cybersecurity: Cyber Technology; Future Considerations
+Introduction to the Global Cyber Threat Environment
+Cyber Deterrence and the International System of Sovereignty
+Understanding the Russian Mindset
+Russian Cyber Operations Background
+Russian Cyber Intelligence
+Understanding the Chinese Mindset
+Chinese Cyber Operations Background
+Chinese Cyber Intelligence
+Understanding the Iranian Mindset
+Iranian Cyber Operations Background
+Iranian Cyber Intelligence
+Understanding the North Korean Mindset
+North Korean Cyber Operations Background
+North Korean Cyber Intelligence
+Case Study: Target Breach
+Case Study: Anthem Breach
+Case Study: Equifax Breach
+Dissecting Recent Cyber Breaches
+Case Study: Password Management
+Case Study: Business Hacking
+Case Study: CPU Meltdown
+Case Study: WannaCry Ransomware
+
+
+TOPIC: Authenticating passwords
+
+Motion sensor data preprocessing
+Smartphone Side-Channel Attacks and Defenses: A Course Project
+Motion sensor data collection toolkit development
+Motion sensor data perturbation for defense
+Motion sensor data feature extraction
+Model training and evaluation
+Online User Authentication Security Lab Exercises: Web Single Sign-On (SSO) Phishing Lab Exercise
+Online User Authentication Security Lab Exercises: Password Reuse Lab Exercise
+Online User Authentication Security Lab Exercises: Password Storage via Secret-Sharing Lab Exercise
+Online User Authentication Security Lab Exercises: Multi-factor User Authentication Lab Exercise
+Online User Authentication Security Lab Exercises: Password Strength Lab Exercise
+User authentication
+Password Attacks
+Secure Authentication Protocols
+Authentication & Authorization in the IoT
+Web Authentication
+NICE Challenge - Systems Administration: Cyber Defense Edition (Complexity 0)
+NICE Challenge  - Configuration Management Gone Awry
+NICE Challenge - Systems Administration: Cyber Defense Edition (Complexity 1)
+
+
+TOPIC: IoT Security
+
+Users: The "weakest" link in cybersecurity?
+Cybersecurity and Internet of Things (IoT)
+Prototyping
+Secure Design Analysis
+Cybersecurity Basics
+Prototypes - Usability Testing
+Introduction to User Experience Design
+Experimenting with A Smart IoT Home
+Visual Design & Principles of User Interface Layout
+Outsmarting the Smart Home
+Testing Strategies
+Course Logistics
+Code Review
+Raspberry Pi 0 W Setup
+Introduction to IoT
+Other IoT Communication Protocols
+IoT Application - Smart Home
+Raspberry Pi 3 Setup
+System Security
+Lightweight IoT communication protocol MQTT
+Secure Bootstrapping
+Building IoT devices with Raspberry Pi
+Connecting Raspberry Pi Wirelessly
+Attacks Against IoT
+Application and OS-Level Threats in IoT
+Network Attacks and Exploitation in the IoT
+IoT Standardization and Hardening
+Hardware Security in IoT
+IoT Wireless Communication Security
+Introduction to the IoT and its Security Landscape
+Forensics in the IoT
+IoT Security and Forensics
+Case Study: IoT DDoS Attacks
+Integrated IoT Security Architecture
+Securing Edge-IoT Systems
+OpenStack based hands-on experimentation infrastructure
+Internet of Things (IoT) and Edge Computing Architecture
+Edge Cloud Hands-on Labs: Threats and Defense
+Edge-IoT Emerging Technologies
+Wireless and Mobile IoT Devices Threats and Defense
+IoT Devices Hands-on Labs: Threats and Defense
+
+
+TOPIC: Principles of Security
+ 
+McCumber Cube
+Failures, Flaws, Common Vulnerabilities
+Intellectual Property
+Computer Security Overview
+Introduction to Cybersecurity Concepts
+Introduction, Course Overview and Prerequisite Material
+CSP-Cybersecurity Principles
+System Tools in Security
+Advanced Cybersecurity Concepts
+Cybersecurity - Overview
+Data Acquisition, Data Recovery, and Data Analysis
+Data Representation
+Introduction to Computer Security
+Computer Security
+
+
+TOPIC: Privacy
+
+Privacy and Security in the Internet of Things
+Introduction to Privacy
+Theory of Privacy
+Web and Network Traffic Privacy
+Location Privacy
+Privacy Preserving in Online Social Networks
+Cybersecurity: Privacy
+Privacy
+Ad Fraud
+
+
+TOPIC: Software Security and Secure Programming
+
+Software Security Fundamentals
+Secure Java Networking and Concurrent Programming
+SECURE JAVA OOAD PROGRAMMING
+Secure Java Input and Programming Basics
+Secure Java Programming-Syllabus
+GUI Based Self-Learning Tool for Secure Java Programming
+Cybersecurity Goals
+Access Control Authentication
+Software Security Basics
+Computer Architecture Basics
+Software Memory CPU
+Secure Software Design Principles
+Secure Software Design Practices
+Securing Java Programming Input
+Secure Expression
+Secure Declaration and Initialization
+Secure Numeric Types and Operations
+Java OOAD Basics
+Secure Java Class and Objects
+Secure Java Method Programming
+Secure Java Exception Handling
+Java Concurrent Programming
+Race Condition and defense in Java Programming
+Deadlock problems and control mechanisms
+Java Network Programming and Security Control
+Secure File Control in Java Programming
+Secure JAVA Platform
+Encryption for storage and transmission in Java Programming
+Using Java Access Controller for access control
+The Java DoPrivilege block for sensitive data protection
+Secure Java Runtime Environment
+Other Controls to secure Java runtime environment
+Injection Vulnerabilities and Attack
+Basic Java OOAD Programming Code examples
+Java Object-oriented analysis and design(OOAD) Programming demonstration videos
+Secure Clone in Java Programming demonstration video
+Secure Java Method Overridden demonstration video
+Secure Java Object Mutability demonstration video
+Securing Java Class Extension demonstration video
+Control of Java Override Method code examples
+Secure Java Object Status via Defensively Copy code examples
+Secure Java Class Extensibility code examples
+Secure Java Object Immutability code examples
+Secure Sensitive Java Class code examples
+Secure  Java Method Programming demonstration video
+Implement CompareTo() method code example
+Java finalizer related to garbage collection code examples
+Java Symmetry Rule Enforcement code examples
+Java Transitivity Rule code example
+Secure Exception Handling demonstration video
+Java Exceptional Behavior checked exceptions code examples
+Java finalize for exception handling code examples
+Exit From a Finally Block code examples
+Prevent Java exceptions while logging data code examples
+Protect sensitive information code examples
+Keep checked exceptions in final block code examples
+Java undeclared checked exceptions code examples
+Java exception handling via throwing more specific exception code examples
+Java restore prior object state code examples
+Multi - Thread Programming Basics demonstration video
+Thread programming via Implements Runnable and extends Thread Class code examples
+Race condition and defense demonstration video
+Race Condition problem and defense Java code examples
+Java Deadlock code examples
+Java Network Programming Basics demonstration video
+Java SSLSocket demonstration video
+Java SSLsocket code examples
+Secure Java Object Serialization code examples
+Java Secure File Input Output Rules code examples
+Java Storage Transmission Encryption code examples
+Final Project demonstration video
+Java access controller code examples
+Java doPriviledge() method code examples
+Java  Runtime Environment code examples
+Secure Java runtime environment with other controls code examples
+Buffer Overflow - CS0 - C++
+Input Validation - CS0 - Python
+Integer Error - CS1 - C++
+Buffer Overflow - CS2 - C++
+Input Validation - CS0 - Java
+Integer Error - CS2 - Java
+Buffer Overflow - CS0 - Java
+Buffer Overflow - CS2 - Java
+Integer Error - CS0 - C++
+Input Validation - CS0 - Pseudocode
+Input Validation - CS2 - C++
+Input Validation - CS0 - C++
+Integer Error - CS0 - Java
+Integer Error - CS0 - Pseudocode
+Buffer Overflow - CS1 - C++
+Input Validation - CS1 - Java
+Input Validation - CS1 - Python
+Buffer Overflow - CS1 - Python
+Input Validation - CS2 - Java
+Buffer Overflow - CS1 - Java
+Buffer Overflow - CS0 - Pseudocode
+Buffer Overflow - CS0 - Python
+Integer Error - CS1 - Java
+Introduction to Industrial Control Systems
+Encapsulation - CS2 - C++
+Encapsulation - CS2 - Java
+Integer Error - CS2 - C++
+Input Validation - CS1 - C++
+Introduction to Software Security
+M2.2: Use Valid Arguments on Method Operations
+M3.1: Perform a Set of Tests to Validate Secure Coding Using an Analyzer
+M1.2: Demonstrate Data Boundaries to Prevent Buffer Overflows
+M3.6: Safely Operate File and Handle Related Issues
+M1.3: Validate Input Data
+M3.5: Detect and Handle Sensitive Information Exposure
+M2.3: Catch Exceptions and Unexpected Behaviors
+M3.4: Demonstrate Use of Valid Method Arguments Within a Designed Boundary
+M3.2: Sanitize Data and Validate User Input Across a Trusted Boundary
+M1.4: Declare and Use Variables in a Secure Manner
+M1.1: Detect Integer Errors
+M2.1: Declare And Use Members of a Class
+M3.3: Demonstrate Extensibilities and Accessiblities of Class Members
+M1.5: Use Numeric Types and Their Operations
+M3.7: Operate Trusted Data In a Privileged Block
+XSS and CSRF
+Logic Flaw
+Security Requirements
+Secure Coding
+Software Vulnerabilities
+Structures and Calling Conventions
+Buffer Overflows
+Creating a Safe Lab Environment
+Reversing C++
+Memory Corruption
+File Formats
+Exploit Mitigations
+Basic Analysis Techniques
+Dynamic Analysis
+Shellcode
+Basics of Fuzzing
+Introduction to IDA Pro
+Number Systems
+Common Bug Classes
+Automated Sandboxes
+Introduction to Return Oriented Programming (ROP)
+Processes and Virtual Memory
+Detecting Packers and Code Obfuscation
+Symbolic Analysis
+Code Obfuscation
+Static Analysis Tools
+Fuzzing Frameworks
+Extending IDA Pro With Plugins
+Advanced Memory Analysis
+Fuzzing Strategies
+Fuzzing Integration
+Monitoring Tools
+Secure Software Development Lifecycle
+Fuzzing Real-World Software
+Compiled Versus Interpreted Security Issues
+Analyzing Crashes for Exploitability
+Open Source Code Scanning Tools
+EMET and EMET Bypasses
+Exploit Kits
+Metasploit Modules
+SMT Solvers
+Chaining Bugs
+UG: Software Exploitation
+GR: Software Exploitation
+Programming
+Secure Software Development
+Software Static Analysis
+Software Testing Techniques and Tools
+Software Auditing
+Software Security and Secure Design Principles
+Software Assessment
+Buffer Overflow
+Software Security Principles
+Introduction to Software Security
+SVA- Software Vulnerability Analysis
+Buffer Overflow and Format String Attacks
+Scripting - Overview
+Introduction to Four Languages
+
+
+TOPIC: human-computer interactions
+
+Introduction to Human-Centered Cybersecurity
+Varying the signal to noise ratio
+Balancing competing demands for productivity and security
+Bounded rationality in cybersecurity decision making
+Signal detection theory in cybersecurity settings
+Heuristics and biases in cybersecurity decision making
+Economic theories of cybersecurity decision-making
+Information search in cybersecurity settings
+Unintended consequences of policy
+Game theory and exploitation
+Interaction design in cybersecurity
+Social engineering
+Cognitive engineering better cybersecurity
+User mental models of cybersecurity
+
+
+TOPIC: Blockchain
+
+Blockchain and Cybersecurity
+Fundamentals of Blockchain Technology
+Blockchain Mechanisms for Architecting Business and Information Technology
+Application of Blockchain to Boost Cybersecurity
+Basics of Blockchain and Cryptocurrencies
+Blockchain Technology Mechanism
+Science of Blockchain
+Blockchain and Cryptography
+Smart Contracts
+Ethereum and Solidity
+Blockchain Applications for Business
+Blockchain Applications for Emerging Sectors
+Security of Blockchain Technology
+Security Features and Privacy of Blockchain Technology
+Blockchain Technology for Cybersecurity
+Challenges and Recommendations for using Blockchain Technology for Cybersecurity
+Basics of Blockchain
+Blockchain: Smart contract programming
+Blockchain: logging remote file storage
+Blockchain: Transactional storage
