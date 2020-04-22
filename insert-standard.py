@@ -1,6 +1,7 @@
 import ssl
 import elasticsearch
 import os
+import time
 
 from pymongo import MongoClient
 from elasticsearch import helpers
@@ -17,6 +18,10 @@ def start():
     current_topic = ''
 
     for line in file:
+
+        # Sleep for one second before each iteration to
+        # avoid AWS Elasticsearch service rate limiting
+        time.sleep(1)
 
         # Check for an empty line
         if not len(line.strip()) == 0:
@@ -52,11 +57,12 @@ def start():
                 else:
                     learning_object_id = get_learning_object_id(learning_object_name)
 
-                es_insert(learning_object_id, current_topic)
+                print(learning_object_id)
+                # es_insert(learning_object_id, current_topic)
 
     # When the iteration is complete,
     # save all of the topic names into MongoDB
-    mongo_insert(topics)
+    # mongo_insert(topics)
 
 
 def get_learning_object_id(learning_object_name):
