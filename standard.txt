@@ -1,6 +1,5 @@
 TOPIC: Risk Management
 
-Fundamentals of Cybersecurity (not here)
 Cyber Risk Management in Internet of Things
 Economics of Cyber Systems Risk Management
 Fundamentals of Cybersecurity Risk Management
@@ -138,9 +137,9 @@ Analyzing Intermediate Representation (IR) Malware
 Malware Analysis using Binary Instrumentation
 Malware Analysis Using VM Introspection and Memory Forensics
 Introducing Active Learning to Malware Analysis Curriculum
-Malware
-Malware
-Malware
+Malware ||| 5afa1caec4e4590db24a6563
+Malware ||| 5bf6d5caa309f27ff1510545
+Malware ||| 5bf6d5caa309f27ff1510545
 Malware Data Compromise Techniques
 Malware Privilege Escalation
 Malware Persistence Techniques
@@ -186,14 +185,14 @@ Browser Extension
 
 TOPIC: Cryptography
 
-Cryptography
+Cryptography ||| 5afc684f7ebb710dedfd4227
 Network Security Cryptography Overview
 Cryptography Overview
 Symmetric and Asymmetric Cryptography
 Introduction to Cryptography
 Cryptographic Applications
 Cryptographic Tools
-Cryptography (Doug Reeves)
+Cryptography ||| 5bf6d4e7a309f25b3751053b
 Crypto Basics
 Quantum Computing and Cryptography - 05: Complex Vector Spaces: Linear Combination, Independence, Basis and Dimensions
 Quantum Computing and Cryptography - 04: Complex Vector Spaces
@@ -300,7 +299,7 @@ Netfilter (iptables)
 Network Basics and Threats
 NS- Network Security
 Network Security Course Introduction
-Network Defense
+Network Defense |||  5afc72f07ebb710dedfd4241
 Network Encryption and Protocols
 Network Defense Technologies
 Security in Networking
@@ -311,7 +310,7 @@ Wireless Network Lab 9 and 10 - IDS and GPS
 Wireless Network Lab 7 and 8 - SDR and WPA
 Wireless Network Lab 5 and 6 - Wifi and Bluetooth
 Wireless Network Lab 3 and 4  - Sniffing and Antenna
-Wireless Security
+Wireless Security ||| 5ce5b5051237f052be1c9964
 Network Penetration Testing
 Denial-of-Service Attacks
 Implementing Network Access Control - SDN Part 10
@@ -339,7 +338,7 @@ Isolating Network Traffic - SDN Part 12
 Security Implications of Software Defined Networking - SDN Part 14
 Internet Infrastructure and Telecom Part 1
 Software Defined Networking
-Network Defense
+Network Defense ||| 5ae9ea29be129c0ccafc0ce0
 Implementing Network Access Control - SDN Part 10
 Scaling SDN - SDN Part 13
 Introduction to Software Defined Networking - SDN Part 1
@@ -363,7 +362,7 @@ Security Implications of Software Defined Networking - SDN Part 14
 Internet Infrastructure and Telecom Part 1
 Software Defined Networking
 Network Security Course Overview
-Wireless Security
+Wireless Security ||| 5b8995c1749b5f9f684b590c
 DNS Intro & Security
 Email Network Security
 Email Server Intro & Security
@@ -394,11 +393,8 @@ DHCP Intro & Security
 Infrastructure Services Course Overview
 Case Study: DDoS Attacks
 Case Study: OpenSSL Heartbleed
-Introduction To Penetration Testing
+Introduction To  Penetration Testing
 Intrusion Detection
-Access Control
-Access Control
-Identification, Authentication, and Access Control
 PCAP File Format
 Slammer Decoded
 Reconnaissance
@@ -406,19 +402,16 @@ Scanning
 Exploitation
 Varying the costs of attack and defense on a network
 General Authentication Schema
-Orange Book and Security Criteria
-Classic Soda Machine Attack
 Enterprise Perimeter Weaknesses
 Kerberos
-Bell-LaPadula Model
 Intrusion Detection Basics
 Trojan Horse Code Insertion
-Biba Model and Integrity
 Basic Scanning
 Cyber Offensive and Defensive Schema
 NIST Cyber Security Framework
 CASB Design
 Reinventing Security Awareness
+Smartphone Side-Channel Attacks and Defenses: A Course Project
 
 
 TOPIC: Adversarial Thinking
@@ -459,12 +452,16 @@ Case Study: Password Management
 Case Study: Business Hacking
 Case Study: CPU Meltdown
 Case Study: WannaCry Ransomware
+Classic Soda Machine Attack
 
 
-TOPIC: Authenticating passwords
+TOPIC: Access Control
 
+Bell-LaPadula Model
+Identification, Authentication, and Access Control
+Access Control ||| 5bf6d0f6a309f2fad5510526
+Access Control ||| 5ce58d6d1237f046c61c98fe
 Motion sensor data preprocessing
-Smartphone Side-Channel Attacks and Defenses: A Course Project
 Motion sensor data collection toolkit development
 Motion sensor data perturbation for defense
 Motion sensor data feature extraction
@@ -484,7 +481,7 @@ NICE Challenge  - Configuration Management Gone Awry
 NICE Challenge - Systems Administration: Cyber Defense Edition (Complexity 1)
 
 
-TOPIC: IoT Security
+TOPIC: IoT
 
 Users: The "weakest" link in cybersecurity?
 Cybersecurity and Internet of Things (IoT)
@@ -530,7 +527,9 @@ IoT Devices Hands-on Labs: Threats and Defense
 
 
 TOPIC: Principles of Security
- 
+
+Biba Model and Integrity
+Fundamentals of Cybersecurity
 McCumber Cube
 Failures, Flaws, Common Vulnerabilities
 Intellectual Property
@@ -545,6 +544,7 @@ Data Acquisition, Data Recovery, and Data Analysis
 Data Representation
 Introduction to Computer Security
 Computer Security
+Orange Book and Security Criteria
 
 
 TOPIC: Privacy
@@ -665,7 +665,7 @@ Encapsulation - CS2 - C++
 Encapsulation - CS2 - Java
 Integer Error - CS2 - C++
 Input Validation - CS1 - C++
-Introduction to Software Security
+Introduction to Software Security ||| 5afa1b17c4e4590db24a6558
 M2.2: Use Valid Arguments on Method Operations
 M3.1: Perform a Set of Tests to Validate Secure Coding Using an Analyzer
 M1.2: Demonstrate Data Boundaries to Prevent Buffer Overflows
@@ -734,14 +734,14 @@ Software Security and Secure Design Principles
 Software Assessment
 Buffer Overflow
 Software Security Principles
-Introduction to Software Security
+Introduction to Software Security ||| 5dcae057840c102804bb2c14
 SVA- Software Vulnerability Analysis
 Buffer Overflow and Format String Attacks
 Scripting - Overview
 Introduction to Four Languages
 
 
-TOPIC: human-computer interactions
+TOPIC: Human factors
 
 Introduction to Human-Centered Cybersecurity
 Varying the signal to noise ratio
@@ -781,3 +781,5 @@ Basics of Blockchain
 Blockchain: Smart contract programming
 Blockchain: logging remote file storage
 Blockchain: Transactional storage
+
+

@@ -1,7 +1,6 @@
 import ssl
 import elasticsearch
 import os
-import dotenv
 
 from pymongo import MongoClient
 from elasticsearch import helpers
@@ -20,7 +19,7 @@ def start():
     for line in file:
 
         # Check for an empty line
-        if line is not None:
+        if not len(line.strip()) == 0:
         
             if "TOPIC" in line:
                 # Remove new line characters from the line containing the topic name
@@ -46,7 +45,12 @@ def start():
 
                 learning_object_name = line
 
-                learning_object_id = get_learning_object_id(learning_object_name)
+                # Leaning Object names maked with ||| are duplucicates
+                # Their unique _ids follow the |||
+                if "|||" in learning_object_name:
+                    learning_object_id = learning_object_name.split(" ||| ")[1]
+                else:
+                    learning_object_id = get_learning_object_id(learning_object_name)
 
                 es_insert(learning_object_id, current_topic)
 
@@ -60,11 +64,7 @@ def get_learning_object_id(learning_object_name):
     learning_objects_collection = client.onion.objects
 
     result = list(learning_objects_collection.find({ 'name':  learning_object_name.strip(), 'status': 'released' }))
-
-    # TODO: Check for duplicates when list is finalized
-    # if (len(result) > 1):
-    #     print(result[0].get('name'))
-
+    
     return result[0].get('_id')
 
 
@@ -86,7 +86,7 @@ def mongo_insert(topics):
 
     topics_collection = client.onion.topics
 
-    topics_collection.insert_one({ 'topics': topics})
+    topics_collection.insert_one({ 'topics': topics })
 
 
 if __name__ == '__main__':
