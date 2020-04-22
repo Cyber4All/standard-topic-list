@@ -57,12 +57,11 @@ def start():
                 else:
                     learning_object_id = get_learning_object_id(learning_object_name)
 
-                print(learning_object_id)
-                # es_insert(learning_object_id, current_topic)
+                es_insert(learning_object_id, current_topic)
 
     # When the iteration is complete,
     # save all of the topic names into MongoDB
-    # mongo_insert(topics)
+    mongo_insert(topics)
 
 
 def get_learning_object_id(learning_object_name):
